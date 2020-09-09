@@ -1,5 +1,5 @@
-First text File
+FIRST TEXT FILE
 
-Secong Text File Line
+SECOND TEXT FILE
 
-Third Text Line
+THIRD TEXT LINE
